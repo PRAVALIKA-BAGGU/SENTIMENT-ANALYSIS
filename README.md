@@ -1,15 +1,15 @@
 # SENTIMENT-ANALYSIS
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME : PRAVALIKA BAGGU
+*NAME* : PRAVALIKA BAGGU
 
-INTERN ID : CT04DF836
+*INTERN ID* : CT04DF836
 
-DOMAIN : DATA ANALYSIS
+*DOMAIN* : DATA ANALYSIS
 
-DURATION : 4 WEEKS
+*DURATION* : 4 WEEKS
 
-MENTOR : NEELA SANTOSH
+*MENTOR* : NEELA SANTOSH
 
 *DESCRIPTION*:
 
@@ -29,3 +29,5 @@ The final part of the code may include testing the model on new, unseen text to 
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/bdf3b8d3-b363-4d90-b09d-eb16a1a492c6)
+![Image](https://github.com/user-attachments/assets/edd942d9-fa5e-40f2-bcd8-06ecb1f44413)
